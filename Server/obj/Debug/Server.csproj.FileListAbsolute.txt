@@ -1,0 +1,13 @@
+C:\Users\Anvahi\Downloads\Simple-httpServe\Simple-httpServer-master\Server\bin\Debug\Server.exe.config
+C:\Users\Anvahi\Downloads\Simple-httpServe\Simple-httpServer-master\Server\bin\Debug\Server.exe
+C:\Users\Anvahi\Downloads\Simple-httpServe\Simple-httpServer-master\Server\bin\Debug\Server.pdb
+C:\Users\Anvahi\Downloads\Simple-httpServe\Simple-httpServer-master\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Anvahi\Downloads\Simple-httpServe\Simple-httpServer-master\Server\obj\Debug\Server.exe
+C:\Users\Anvahi\Downloads\Simple-httpServe\Simple-httpServer-master\Server\obj\Debug\Server.pdb
+C:\Users\Sasha\Downloads\Telegram Desktop\Simple-httpServer-master\Server\bin\Debug\Server.exe.config
+C:\Users\Sasha\Downloads\Telegram Desktop\Simple-httpServer-master\Server\bin\Debug\Server.exe
+C:\Users\Sasha\Downloads\Telegram Desktop\Simple-httpServer-master\Server\bin\Debug\Server.pdb
+C:\Users\Sasha\Downloads\Telegram Desktop\Simple-httpServer-master\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Sasha\Downloads\Telegram Desktop\Simple-httpServer-master\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Downloads\Telegram Desktop\Simple-httpServer-master\Server\obj\Debug\Server.exe
+C:\Users\Sasha\Downloads\Telegram Desktop\Simple-httpServer-master\Server\obj\Debug\Server.pdb
